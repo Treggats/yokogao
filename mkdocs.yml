@@ -1,0 +1,6 @@
+site_name: Yokogao
+pages:
+  - Home: index.md
+  - Tutorial: source/tutorial1.md
+theme: readthedocs
+extra_css: [extra.css]
