@@ -6,9 +6,13 @@ about a user, it's repositories and issues.
 
 This repository contains a :doc:`tutorial1` on how this application was made.
 These documentation is generated using the following command in the
-docs directory.
+root directory.
 ```
-sphinx-build -c . source _build/html
+# build the documentation
+mkdocs build
+
+# preview the documentation
+mkdocs serve
 ```
 ## Run the app
 
