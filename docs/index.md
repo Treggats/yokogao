@@ -4,7 +4,7 @@ Yokogao is Japaneze for profile of a face as seen from the side.
 This is an simple app that consumes the Github API to show information
 about a user, it's repositories and issues.
 
-This repository contains a :doc:`tutorial1` on how this application was made.
+This repository contains a [tutorial](tutorial/part_1) on how this application was made.
 These documentation is generated using the following command in the
 root directory.
 ```
